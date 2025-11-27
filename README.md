@@ -1,7 +1,5 @@
-<h1 align="center">Hi 👋, I'm Dawid (22), Computer Engineering student (Politechnika Rzeszowska) and also member of "Studenckie Koło Naukowe Informatyków 'KOD'" - SKNI "KOD"</h1>
+<h1 align="center">Hi 👋, I'm Dawid (23), Computer Engineering student (Politechnika Rzeszowska) and also member of "Studenckie Koło Naukowe Informatyków 'KOD'" - SKNI "KOD"</h1>
 <h3 align="center">I'm passionate about javascript fullstack development. Currently, I have basic knolegde about django on backend, and basic knoledge about frontend in vanilla js,css,html.</h3>
-
-- 🔭 I’m currently working on [Konferencje Site](https://github.com/Symonic/Konferencja)
 
 - 🌱 I’m currently learning **Node.js, Express, React**
 
